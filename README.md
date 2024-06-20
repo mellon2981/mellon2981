@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 my name is Pavel, I'm Data Analyst since 2022
 
 <!--
 **mellon2981/mellon2981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 STACK
 
-Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy, Psycopg2, SQLAlchemy)
-SQL (MS SQL, MySQL, SQLite)
-A/B testing and statistics (EDA, Data Pre-Processing, Classical Parametric and Non-parametric tests, Bootstrapping)
-BI systems (Power BI, Qlik Sense, Tableau)
-Airflow
-Jupyter Notebook
-Git
-Google sheets, Excel
++ Python (Pandas, NumPy, BeautifulSoup, Selenium, Pywinauto, SQLAlchemy, pd_to_mssql)
++ SQL (MS SQL, MySQL, SQLite)
++ BI systems (Power BI, Qlik Sense, Tableau)
++ Airflow
++ Jupyter Notebook
++ Git
++ Google sheets, Excel, Power Query, Power Pivot, DAX, VBA
 
 EDUCATION
 
