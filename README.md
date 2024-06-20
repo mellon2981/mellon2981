@@ -1,4 +1,4 @@
-## Hi 👋 my name is Pavel, I'm Data Analyst since 2022
+## Hi 👋, I'm Data Analyst since 2022.
 
 <!--
 **mellon2981/mellon2981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
