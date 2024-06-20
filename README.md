@@ -26,11 +26,6 @@ Jupyter Notebook
 Git
 Google sheets, Excel
 
-
-CERTIFICATES
-
-
-
 EDUCATION
 
 Novosibirsk State University, Faculty of Economics, Economics
