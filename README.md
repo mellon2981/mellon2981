@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+STACK
+
+Python (Pandas, Seaborn, Matplotlib, Statsmodels, NumPy, SciPy, Psycopg2, SQLAlchemy)
+SQL (MS SQL, MySQL, SQLite)
+A/B testing and statistics (EDA, Data Pre-Processing, Classical Parametric and Non-parametric tests, Bootstrapping)
+BI systems (Power BI, Qlik Sense, Tableau)
+Airflow
+Jupyter Notebook
+Git
+Google sheets, Excel
+
+
+CERTIFICATES
+
+
+
+EDUCATION
+
+Novosibirsk State University, Faculty of Economics, Economics
+2018-2022
+
+
