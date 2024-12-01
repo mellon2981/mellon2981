@@ -21,11 +21,9 @@ STACK
 + SQL (MS SQL, MySQL, SQLite)
 + Jupyter Notebook
 + Git
-+ Google sheets, Excel, Power Query, Power Pivot, DAX, VBA
++ Google sheets, Excel, Power Query (M), Power Pivot, DAX, VBA
 
 EDUCATION
 
 Novosibirsk State University, Faculty of Economics, Economics
 2018-2022
-
-
