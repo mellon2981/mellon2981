@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 STACK
 
-+ Python (Pandas, NumPy, BeautifulSoup, Selenium, Pywinauto, SQLAlchemy, pd_to_mssql)
++ Python (Pandas, NumPy, BeautifulSoup, Selenium, Pywinauto, SQLAlchemy, pd_to_mssql, PySpark)
 + SQL (MS SQL, MySQL, SQLite)
 + Jupyter Notebook
 + Git
